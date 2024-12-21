@@ -1,2 +1,2 @@
 # prabhatjena
-This is my repo on my persnal portfolio design uaing HTML and CSS
+This is my repo on my personal portfolio design uaing HTML and CSS
